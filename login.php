@@ -2,7 +2,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0;url=index.php">
+        <meta http-equiv="refresh" content="0;url=login.php">
         <title>تسجيل دخول</title>
         <style>
             body {
